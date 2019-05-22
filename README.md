@@ -27,8 +27,10 @@ I share John Perry Barlow's vision for our nascent noosphere: [Declaration of th
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
   * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
-  
-## Achievements
-TBD
+  * [Treasurer](https://cryptotechguru.github.io/Cryptonomicon/Roles/Treasurer)
+  * [Gatekeeper](https://cryptotechguru.github.io/Cryptonomicon/Roles/Gatekeeper)
+* [Lexinomicon](https://cryptotechguru.github.io/Lexinomicon/)
+  * [Player](https://cryptotechguru.github.io/Lexinomicon/Roles/Player)
+  * [Operator](https://cryptotechguru.github.io/Lexinomicon/Roles/Operator)
 
 <img align="right" src="marley.png">
