@@ -31,4 +31,4 @@ I share John Perry Barlow's vision for our nascent noosphere: [Declaration of th
 ## Achievements
 TBD
 
-<img align="right" src="http://daath.cryptotech.guru/marley.png">
+<img align="right" src="marley.png">
