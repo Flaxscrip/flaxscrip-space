@@ -23,6 +23,7 @@ I share John Perry Barlow's vision for our nascent noosphere: [Declaration of th
 * [github](https://github.com/flaxscrip)
 * [keybase](https://keybase.io/csaucier)
 * [linkedin](https://www.linkedin.com/in/csaucier)
+* [ulex.app](https://ulex.app/user/christian)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
