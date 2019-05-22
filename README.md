@@ -18,8 +18,6 @@ Over the last 8 years, I've been involved in dozens of P2P projects across many 
 
 I share John Perry Barlow's vision for our nascent noosphere: [Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).
 
----
-
 ## Identities
 * [website](https://cryptotech.guru)
 * [github](https://github.com/flaxscrip)
@@ -39,5 +37,3 @@ I share John Perry Barlow's vision for our nascent noosphere: [Declaration of th
   * [Operator](https://cryptotechguru.github.io/Lexinomicon/Roles/Operator)
 
 <img align="right" src="marley.png">
-
----
