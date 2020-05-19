@@ -6,7 +6,7 @@ Decentralizing the Singularity with Community Technology
 
 |  |  |
 | -- | -- |
-| <img align="center" width="200" src="Free_Ross_Ulbricht.jpg"> | *"I want to use economic theory as a means to abolish the use of coercion and agression amongst mankind."* -- Ross Ulbricht |
+| <br><img align="center" width="200" src="Free_Ross_Ulbricht.jpg"> | *"I want to use economic theory as a means to abolish the use of coercion and agression amongst mankind."* -- Ross Ulbricht |
 
 ---
 
@@ -18,7 +18,7 @@ I design and implement community technologies using P2P consensus protocols. Blo
 
 Over the last 8 years, I've been involved in dozens of P2P projects across many industries including : finance, supply chain management, project governance, real estate, IOT, food, agriculture, and healthcare.
 
-I share John Perry Barlow's vision for our nascent noosphere. 
+I share John Perry Barlow's vision for our nascent noosphere: 
 ### [Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).
 
 ## Identities
