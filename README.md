@@ -10,7 +10,7 @@ Decentralizing the Singularity with Community Technology
 
 ---
 
-<img align="right" width="250" src="profile.jpg">
+<img align="right" width="200" src="profile.jpg">
 
 ## Bio:
 
@@ -20,6 +20,7 @@ Over the last 8 years, I've been involved in dozens of P2P projects across many 
 
 I share John Perry Barlow's vision for our nascent noosphere: 
 ### [Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence).
+
 
 ---
 
@@ -37,13 +38,13 @@ I share John Perry Barlow's vision for our nascent noosphere:
 * [EDENomicon](https://cryptotechguru.github.io/EDENomicon/)
   * [Player](https://cryptotechguru.github.io/EDENomicon/Roles/Player)
   * [Operator](https://cryptotechguru.github.io/EDENomicon/Roles/Operator)
-<br>  
+<br><br>  
   
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
   * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
   * [Treasurer](https://cryptotechguru.github.io/Cryptonomicon/Roles/Treasurer)
   * [Gatekeeper](https://cryptotechguru.github.io/Cryptonomicon/Roles/Gatekeeper)
-<br> 
+<br><br> 
  
 * [Lexinomicon](https://cryptotechguru.github.io/Lexinomicon/)
   * [Player](https://cryptotechguru.github.io/Lexinomicon/Roles/Player)
