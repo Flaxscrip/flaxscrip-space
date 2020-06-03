@@ -38,6 +38,7 @@ I share John Perry Barlow's vision for our nascent noosphere:
 * [EDENomicon](https://cryptotechguru.github.io/EDENomicon/)
   * [Player](https://cryptotechguru.github.io/EDENomicon/Roles/Player)
   * [Operator](https://cryptotechguru.github.io/EDENomicon/Roles/Operator)
+  * [Maintainer](https://cryptotechguru.github.io/EDENomicon/Roles/Maintainer)
 <br><br>  
   
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
@@ -46,9 +47,9 @@ I share John Perry Barlow's vision for our nascent noosphere:
   * [Gatekeeper](https://cryptotechguru.github.io/Cryptonomicon/Roles/Gatekeeper)
 <br><br> 
  
-* [Lexinomicon](https://cryptotechguru.github.io/Lexinomicon/)
-  * [Player](https://cryptotechguru.github.io/Lexinomicon/Roles/Player)
-  * [Operator](https://cryptotechguru.github.io/Lexinomicon/Roles/Operator)
+* [Lexinomicon](https://ulex-opensource.github.io/Lexinomicon/)
+  * [Player](https://ulex-opensource.github.io/Lexinomicon/Roles/Player)
+  * [Operator](https://ulex-opensource.github.io/Lexinomicon/Roles/Operator)
 
 
 <img align="right" src="marley.png">
